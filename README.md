@@ -1,1 +1,0 @@
-# ResidualNetwork-for-Cifar10
